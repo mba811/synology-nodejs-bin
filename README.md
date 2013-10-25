@@ -20,5 +20,5 @@ HOWTO Use
 >tar -xzf mv6282_node-0.8.9.tar.gz
 >cd mv6282_node-0.8.9
 >make install
-```
+ ```
 
