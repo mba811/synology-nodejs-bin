@@ -16,6 +16,9 @@ HOWTO Use
 =========
 1. Get package (use your git client or [download](https://github.com/chesco-als/synology-nodejs-bin/releases))
 2. Run commands
-`>tar -xzf mv6282_node-0.8.9.tar.gz
+```
+>tar -xzf mv6282_node-0.8.9.tar.gz
 >cd mv6282_node-0.8.9
->make install`
+>make install
+```
+
