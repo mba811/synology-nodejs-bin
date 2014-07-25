@@ -3,7 +3,7 @@
 NodeJS binary builds for Synology DiskStation. Only two for the moment.
 
 ## node_88f6281_0.10.6-1.spk
-Cross-compiled for Marvell Kirkwood mv6282 (88f6282) and mv6281 (88f6281) based stations:
+NodeJS 0.10.6 cross-compiled for Marvell Kirkwood mv6282 (88f6282) and mv6281 (88f6281) based stations:
 
 DS213air, DS213, DS112, DS112+, DS212j, DS212, DS212+, RS212, RS812, DS111, DS211, DS211+, DS411slim, DS411, RS411, DS413j, DS112j, DS211j, DS411j, DS110j, DS210j, DS410j, DS109, DS209, DS409, DS409slim, RS40
 
