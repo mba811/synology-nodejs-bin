@@ -1,3 +1,8 @@
+# UPDATE
+## Great news! node.js is now part of the synocommunity repository.
+### [SynoCommunity](https://synocommunity.com/)
+
+
 # synology-nodejs-bin
 
 NodeJS binary builds for Synology DiskStation. Only two for the moment.
