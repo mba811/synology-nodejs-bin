@@ -1,5 +1,5 @@
 # UPDATE
-## Great news! node.js is now part of the synocommunity repository.
+## Great news! NodeJS is now part of the synocommunity repository.
 ### [SynoCommunity](https://synocommunity.com/)
 
 
